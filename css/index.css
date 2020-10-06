@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background: -webkit-linear-gradient( to bottom top, #4e4e4e, black);
+    background: -moz-linear-gradient( to bottom top, #4e4e4e, black);
+    background: -ms-linear-gradient( to bottom top, #4e4e4e, black);
+    background: -o-linear-gradient( to bottom top, #4e4e4e, black);
+    background: linear-gradient( to bottom top, #4e4e4e, black);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(203, 203, 207);
+    background: linear-gradient(0deg, rgba(203, 203, 207, 1) 35%, rgba(149, 149, 149, 1) 100%);
+    background-repeat: no-repeat;
+    width: 100% !important;
+}
+
+#App {
+    width: 100%;
+}

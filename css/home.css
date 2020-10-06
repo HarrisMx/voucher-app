@@ -1,0 +1,15 @@
+.home-srcn {
+    padding-top: 5%;
+}
+
+.spinner-text {
+    color: #3f361a;
+}
+
+.spinner-brand {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    float: left;
+}
